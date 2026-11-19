@@ -14,7 +14,7 @@ PARAM,MAXRATIO,1.0+8
 PARAM,POST,-1  
 PARAM, GRDPNT, 0
 $
-include 'include\(File to be inserted).bdf'
+include 'include\($2345678).bdf'
 $
 SPCADD,100,1
 LOAD,200,1.0,1.0,11
